@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#94FBF8</color> <!-- Fondo suave gris claro -->
+    <color name="text_color">#333333</color> <!-- Texto gris oscuro -->
+    <color name="button_primary_color">#6200EE</color> <!-- Botón principal púrpura -->
+    <color name="button_secondary_color">#03DAC6</color> <!-- Botón secundario verde agua -->
+
+</resources>
